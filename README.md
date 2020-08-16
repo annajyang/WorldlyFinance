@@ -1,5 +1,5 @@
 # WorldlyFinance
-Created by Anna Yang, Mick Arnold, Jennifer Luo, and Sonnet Xu for TecHacks 2020
+Created by Anna Yang, Mick Arnold, Jennifer Luo for TecHacks 2020
 
 This app was created on Android Studios to convert currencies from different countries. The purpose is to help people practice and learn currency conversions easily, and to streamline the conversion process abroad -- especially in places without internet access or web browers.
 
